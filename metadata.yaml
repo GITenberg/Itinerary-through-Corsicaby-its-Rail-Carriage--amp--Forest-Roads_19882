@@ -1,0 +1,31 @@
+_repo: Itinerary-through-Corsicaby-its-Rail-Carriage--amp--Forest-Roads_19882
+_version: 0.1.0
+alternative_title: "Itinerary through Corsica\r\nby its Rail, Carriage and Forest\
+  \ Roads"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Black, C. B.
+    alias: Black, Charles Bertram
+    deathdate: 1906
+    gutenberg_agent_id: '8939'
+    url: http://www.gutenberg.org/2009/agents/8939
+description: ''
+gutenberg_issued: '2006-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19882'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Corsica (France) -- Guide-books'
+- !lcc 'DC'
+- !lcsh 'Corsica (France) -- Description and travel'
+title: 'Itinerary through Corsica
+
+  by its Rail, Carriage & Forest Roads'
+url: http://www.gutenberg.org/ebooks/19882
